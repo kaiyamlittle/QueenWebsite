@@ -14,10 +14,10 @@
   "to_bake": [
     {
       "template": "bake-book",
-      "data": "library",
-      "array": "books",
+      "data": "band",
+      "array": "members",
       "slug": "slug",
-      "path": "books"
+      "path": "members"
     }
   ]
 }

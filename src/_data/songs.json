@@ -1,0 +1,80 @@
+{
+    "discography": [
+      {
+        "title": "Queen",
+        "year": 1973,
+        "image": "Queen_Queen.png"
+      },
+      {
+        "title": "Queen II",
+        "year": 1974,
+        "image": "Queen_Queen_II.jpg"
+      },
+      {
+        "title": "Sheer Heart Attack",
+        "year": 1974,
+        "image": "Queen_Sheer_Heart_Attack.png"
+      },
+      {
+        "title": "A Night at the Opera",
+        "year": 1975,
+        "image": "Queen_A_Night_At_The_Opera.png"
+      },
+      {
+        "title": "A Day at the Races",
+        "year": 1976,
+        "image": "Queen_A_Day_at_the_Races.jpg"
+      },
+      {
+        "title": "News of the World",
+        "year": 1977,
+        "image": "Queen_News_Of_The_World.png"
+      },
+      {
+        "title": "Jazz",
+        "year": 1978,
+        "image": "Queen_Jazz.png"
+      },
+      {
+        "title": "The Game",
+        "year": 1980,
+        "image": "Queen_The_Game.png"
+      },
+      {
+        "title": "Flash Gordon Soundtrack",
+        "year": 1980,
+        "image": "Queen_Flash_Gordon.png"
+      },
+      {
+        "title": "Hot Space",
+        "year": 1982,
+        "image": "Queen_Hot_Space.png"
+      },
+      {
+        "title": "The Works",
+        "year": 1984,
+        "image": "Queen_The_Works.png"
+      },
+      {
+        "title": "A Kind of Magic",
+        "year": 1986,
+        "image": "Queen_A_Kind_Of_Magic.png"
+      },
+      {
+        "title": "The Miracle",
+        "year": 1989,
+        "image": "Queen_The_Miracle.png"
+      },
+      {
+        "title": "Innuendo",
+        "year": 1991,
+        "image": "Queen_Innuendo.png"
+      },
+      {
+        "title": "Made in Heaven",
+        "year": 1995,
+        "image": "Queen_Made_in_Heaven.jpg"
+      }
+    ]
+  }
+  
