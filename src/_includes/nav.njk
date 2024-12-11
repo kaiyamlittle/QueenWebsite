@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="{{ relative_path }}index.html">Queen</a>
+    <a class="navbar-brand" href="./index.html">Queen</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -12,7 +12,7 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             {% for member in band.members %}
-            <li><a class="dropdown-item" href="{{ relative_path }}members/{{ member.slug}}.html">{{ member.name }}</a></li>
+            <li><a class="dropdown-item" href="./{{ member.slug}}.html">{{ member.name }}</a></li>
             {% endfor %}
           </ul>
         </li>
