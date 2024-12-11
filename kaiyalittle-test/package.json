@@ -1,0 +1,23 @@
+{
+  "name": "icj-gulp-fetch-test",
+  "version": "1.2.0",
+  "description": "Testing .",
+  "main": "index.html",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utdata/icj-gulp-fetch-test.git"
+  },
+  "keywords": [],
+  "author": "Christian McDonald <christian.mcdonald@utexas.edu>",
+  "license": "ISC",
+  "devDependencies": {
+    "@newswire/doc-to-archieml": "^1.0.0",
+    "@newswire/sheet-to-data": "^1.0.0",
+    "fs-extra": "^11.1.1",
+    "google-cloud-node": "^0.0.1-security",
+    "googleapis": "^118.0.0",
+    "gulp": "^4.0.2",
+    "gulp-load-tasks": "^0.8.4"
+  }
+}
